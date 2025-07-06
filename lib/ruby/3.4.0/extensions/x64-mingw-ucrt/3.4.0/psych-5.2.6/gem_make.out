@@ -1,0 +1,32 @@
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/psych-5.2.6/ext/psych
+c:/Ruby34-x64/bin/ruby.exe extconf.rb
+checking for pkg-config for yaml-0.1... ["-Ic:/Ruby34-x64/msys64/ucrt64/bin/../include ", "-Lc:/Ruby34-x64/msys64/ucrt64/bin/../lib", "-lyaml"]
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/psych-5.2.6/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-l7vkbh sitelibdir\=./.gem.20250704-15684-l7vkbh clean
+cd libyaml && make clean
+/bin/sh: linha 1: cd: libyaml: No such file or directory
+make: [Makefile:291: clean-so] Error 1(ignorado)
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/psych-5.2.6/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-l7vkbh sitelibdir\=./.gem.20250704-15684-l7vkbh
+generating psych-x64-mingw-ucrt.def
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/psych-5.2.6/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-l7vkbh sitelibdir\=./.gem.20250704-15684-l7vkbh install
+/usr/bin/install -c -m 0755 psych.so ./.gem.20250704-15684-l7vkbh
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/psych-5.2.6/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-l7vkbh sitelibdir\=./.gem.20250704-15684-l7vkbh clean
+cd libyaml && make clean
+/bin/sh: linha 1: cd: libyaml: No such file or directory
+make: [Makefile:291: clean-so] Error 1(ignorado)

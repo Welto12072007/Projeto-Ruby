@@ -1,0 +1,29 @@
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/rbs-3.9.4/ext/rbs_extension
+c:/Ruby34-x64/bin/ruby.exe extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-45wcp4 sitelibdir\=./.gem.20250704-15684-45wcp4 clean
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-45wcp4 sitelibdir\=./.gem.20250704-15684-45wcp4
+generating rbs_extension-x64-mingw-ucrt.def
+compiling ./../../src/constants.c
+compiling ./../../src/ruby_objs.c
+compiling ./../../src/util/rbs_constant_pool.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling unescape.c
+linking shared-object rbs_extension.so
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-45wcp4 sitelibdir\=./.gem.20250704-15684-45wcp4 install
+/usr/bin/install -c -m 0755 rbs_extension.so ./.gem.20250704-15684-45wcp4
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/rbs-3.9.4/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-45wcp4 sitelibdir\=./.gem.20250704-15684-45wcp4 clean

@@ -1,0 +1,19 @@
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+c:/Ruby34-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-mv4zrp sitelibdir\=./.gem.20250704-15684-mv4zrp clean
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-mv4zrp sitelibdir\=./.gem.20250704-15684-mv4zrp
+generating escape-x64-mingw-ucrt.def
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-mv4zrp sitelibdir\=./.gem.20250704-15684-mv4zrp install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250704-15684-mv4zrp/erb
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-mv4zrp sitelibdir\=./.gem.20250704-15684-mv4zrp clean

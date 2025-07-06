@@ -1,0 +1,20 @@
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+c:/Ruby34-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-1k8r91 sitelibdir\=./.gem.20250704-15684-1k8r91 clean
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-1k8r91 sitelibdir\=./.gem.20250704-15684-1k8r91
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-1k8r91 sitelibdir\=./.gem.20250704-15684-1k8r91 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250704-15684-1k8r91/debug
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-1k8r91 sitelibdir\=./.gem.20250704-15684-1k8r91 clean

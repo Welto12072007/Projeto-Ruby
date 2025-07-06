@@ -1,0 +1,30 @@
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+c:/Ruby34-x64/bin/ruby.exe extconf.rb
+checking for rb_syserr_fail_str(0, Qnil)... yes
+checking for rb_interned_str_cstr()... yes
+checking for rb_io_path()... yes
+checking for rb_io_descriptor()... yes
+checking for rb_io_get_write_io()... yes
+checking for rb_io_closed_p()... yes
+checking for rb_io_open_descriptor()... yes
+checking for rb_ractor_local_storage_value_newkey()... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+checking for ttyname_r()... no
+checking for ttyname()... no
+creating Makefile
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-atxuz0 sitelibdir\=./.gem.20250704-15684-atxuz0 clean
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-atxuz0 sitelibdir\=./.gem.20250704-15684-atxuz0
+generating console-x64-mingw-ucrt.def
+compiling console.c
+linking shared-object io/console.so
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-atxuz0 sitelibdir\=./.gem.20250704-15684-atxuz0 install
+/usr/bin/install -c -m 0755 console.so ./.gem.20250704-15684-atxuz0/io
+
+current directory: c:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250704-15684-atxuz0 sitelibdir\=./.gem.20250704-15684-atxuz0 clean
