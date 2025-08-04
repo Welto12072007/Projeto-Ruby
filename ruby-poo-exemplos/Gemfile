@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'rspec'  # Framework for testing
+gem 'pry'    # Debugging tool
+gem 'rubocop' # Code style checker

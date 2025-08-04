@@ -1,0 +1,23 @@
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/jaro_winkler-1.6.1/ext/jaro_winkler
+C:/Ruby34-x64/bin/ruby.exe extconf.rb
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/jaro_winkler-1.6.1/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-x8k84n sitelibdir\=./.gem.20250804-53500-x8k84n clean
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/jaro_winkler-1.6.1/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-x8k84n sitelibdir\=./.gem.20250804-53500-x8k84n
+generating jaro_winkler_ext-x64-mingw-ucrt.def
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.so
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/jaro_winkler-1.6.1/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-x8k84n sitelibdir\=./.gem.20250804-53500-x8k84n install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.so ./.gem.20250804-53500-x8k84n/jaro_winkler
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/jaro_winkler-1.6.1/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-x8k84n sitelibdir\=./.gem.20250804-53500-x8k84n clean

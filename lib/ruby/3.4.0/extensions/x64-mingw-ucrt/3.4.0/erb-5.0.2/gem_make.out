@@ -1,0 +1,20 @@
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+C:/Ruby34-x64/bin/ruby.exe extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-5n6vf6 sitelibdir\=./.gem.20250804-53500-5n6vf6 clean
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-5n6vf6 sitelibdir\=./.gem.20250804-53500-5n6vf6
+generating escape-x64-mingw-ucrt.def
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-5n6vf6 sitelibdir\=./.gem.20250804-53500-5n6vf6 install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250804-53500-5n6vf6/erb
+
+current directory: C:/Users/welli/OneDrive/Desktop/Projeto-Ruby/lib/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250804-53500-5n6vf6 sitelibdir\=./.gem.20250804-53500-5n6vf6 clean
