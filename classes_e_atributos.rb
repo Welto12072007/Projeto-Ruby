@@ -11,6 +11,5 @@ class Pessoa
   end
 end
 
-# Exemplo de uso da classe Pessoa
 pessoa = Pessoa.new("Wellington", 18)
 puts pessoa.apresentar

@@ -35,7 +35,6 @@ class Biblioteca
   end
 end
 
-# Exemplo de uso
 biblioteca = Biblioteca.new
 livro1 = Livro.new("O Senhor dos Anéis", "J.R.R. Tolkien", 1954)
 livro2 = Livro.new("1984", "George Orwell", 1949)

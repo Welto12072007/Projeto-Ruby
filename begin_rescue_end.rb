@@ -1,6 +1,5 @@
 
 begin
-  # Código que pode gerar uma exceção
   puts "Digite um número:"
   numero = gets.chomp.to_i
   resultado = 10 / numero
